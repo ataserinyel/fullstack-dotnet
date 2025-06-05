@@ -1,0 +1,18 @@
+# Visual Studio build folders
+bin/
+obj/
+.vs/
+csharp-oop/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Other junk
+*.tmp
+*.cache
+*.DS_Store
+*.swp
