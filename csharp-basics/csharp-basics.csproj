@@ -46,6 +46,7 @@
     <Compile Include="00_Variables.cs" />
     <Compile Include="01_TypeConversions.cs" />
     <Compile Include="02_Arrays.cs" />
+    <Compile Include="03_Operators.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

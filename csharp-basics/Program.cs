@@ -1,4 +1,4 @@
-﻿using System;
+﻿// using System;
 
 namespace lesson
 {
@@ -9,7 +9,7 @@ namespace lesson
             Variables.FuncVariables();                                      // Variables (Data types)
             TypeConversions.FuncTypeConversions();                          // Type Conversions (Casting)
             Arrays.FuncArrays();                                            // Arrays
-
+            Operators.FuncOperators();                                      // Operators
         }
     }
 }
